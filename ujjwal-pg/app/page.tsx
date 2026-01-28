@@ -186,7 +186,7 @@ export default function Home() {
       </section>
 
       <footer className="text-center py-6 text-sm text-slate-500">
-        © 2026 Ujwal Boys PG • Greater Noida
+        © 2025 Ujwal Boys PG • Greater Noida
       </footer>
 
     </main>
